@@ -45,6 +45,73 @@ let track_list = [
     image: "https://upload.wikimedia.org/wikipedia/en/d/da/King_Von_-_Crazy_Story.jpg",
     path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/King_Von_-_Crazy_Story.mp3?_=2",
   },
+  {
+    name: "Spin Bout U",
+    artist: "Drake, 21 Savage",
+    image: "https://i0.wp.com/hiphopmood.com/uploads/2023/08/Drake-Spin-Bout-U-artwork.jpeg?ulb=false&ssl=1&resize=320,350",
+    path: "https://bidwish.com.ng/files/Drake,%2021%20Savage%20-%20Spin%20Bout%20U.mp3",
+  },
+  {
+    name: " Married with Millions",
+    artist: "Gucci Mane",
+    image: "https://i0.wp.com/justnaija.com/uploads/2023/07/Gucci-Mane-Married-With-Millions-artwork.jpeg?ulb=false&ssl=1&resize=320,350",
+    path: "https://connectloaded.com/uploads/2023/07/Gucci_Mane_-_Married_with_Millions-CONNECTLOADED.COM.mp3?_=1",
+  },
+  {
+    name: "Pushin P",
+    artist: "Gunna, Young Thug",
+    image: "https://i0.wp.com/hiphopmood.com/uploads/2023/08/Gunna-Pushin-P-artwork.jpeg?ulb=false&ssl=1&resize=320,350",
+    path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/07/Gunna_ft_Future_Young_Thug_-_Pushin_P.mp3?_=2",
+  },
+  {
+    name: "Knife Talk",
+    artist: "Drake Ft. 21 Savage & Project Pat",
+    image: "https://i0.wp.com/justnaija.com/uploads/2023/07/Drake-Knife-Talk-artwork.jpeg?ulb=false&ssl=1&resize=320,350",
+    path: "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6?si=f1bddefcf82043a9",
+  },
+  {
+    name: "Dope",
+    artist: "Nle Choppa, Fivio Foreign",
+    image: "https://i0.wp.com/justnaija.com/uploads/2023/04/NLE-Choppa-Dope-artwork.jpeg?ulb=false&ssl=1&resize=320,350",
+    path: "https://nobadsong.com/wp-content/uploads/2023/04/NLE_Choppa_-_Dope_Nobadsong.com.mp3"
+  },
+  {
+    name: "Crazy Story",
+    artist: "King Von",
+    image: "https://upload.wikimedia.org/wikipedia/en/d/da/King_Von_-_Crazy_Story.jpg",
+    path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/King_Von_-_Crazy_Story.mp3?_=2",
+  },
+  {
+    name: "Crazy Story",
+    artist: "King Von",
+    image: "https://upload.wikimedia.org/wikipedia/en/d/da/King_Von_-_Crazy_Story.jpg",
+    path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/King_Von_-_Crazy_Story.mp3?_=2",
+  },
+  {
+    name: "Crazy Story",
+    artist: "King Von",
+    image: "https://upload.wikimedia.org/wikipedia/en/d/da/King_Von_-_Crazy_Story.jpg",
+    path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/King_Von_-_Crazy_Story.mp3?_=2",
+  },
+  {
+    name: "Crazy Story",
+    artist: "King Von",
+    image: "https://upload.wikimedia.org/wikipedia/en/d/da/King_Von_-_Crazy_Story.jpg",
+    path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/King_Von_-_Crazy_Story.mp3?_=2",
+  },
+  {
+    name: "Crazy Story",
+    artist: "King Von",
+    image: "https://upload.wikimedia.org/wikipedia/en/d/da/King_Von_-_Crazy_Story.jpg",
+    path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/King_Von_-_Crazy_Story.mp3?_=2",
+  },
+  {
+    name: "Crazy Story",
+    artist: "King Von",
+    image: "https://upload.wikimedia.org/wikipedia/en/d/da/King_Von_-_Crazy_Story.jpg",
+    path: "https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/King_Von_-_Crazy_Story.mp3?_=2",
+  },
+
 ];
 
 function random_bg_color() {
